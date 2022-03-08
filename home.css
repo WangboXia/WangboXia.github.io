@@ -8,14 +8,13 @@ body {
 }
 
 .header {
-  padding: 80px;
+  padding: 70px;
   text-align: center;
   background: #1abc9c;
   color: white;
 }
 
 .audio {
-  
 }
 
 .header h1 {
@@ -78,6 +77,18 @@ body {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
+}
+
+.box {
+  width: 30%;
+  height: 200px;
+  border: 5px dashed #f7a239;
+}
+
+.container {
+  width: 30%;
+  height: 25%;
+  border: 5px dashed #f7a239;
 }
 
 .footer {
